@@ -1,3 +1,4 @@
+from model import InputForm
 from flask import Flask, render_template, request
 from compute import compute
 
